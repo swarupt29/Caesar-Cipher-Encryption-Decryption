@@ -70,9 +70,7 @@ The `caesarCipher` method performs the encryption and decryption based on the pr
 
 ### Usage
 
-https://github.com/swarupt29/Caesar-Cipher-Encryption-Decryption/assets/118194258/261c7c02-2fe3-4d25-8589-9b520eebe106
-
-
+https://github.com/swarupt29/Caesar-Cipher-Encryption-Decryption/assets/118194258/082c5d29-412e-4b41-8828-4463d63ff351
 
 ### Notes
 Ensure proper input validation and error handling for production use.
